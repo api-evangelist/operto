@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Operto is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://operto.com/
+Operto provides industry-leading hospitality management software that streamlines operations, enhances guest experiences, and drives growth for hotels, vacation rentals, student housing, and multi‑family properties. Its platform includes modules for guest access, mobile keys, contactless check‑in, housekeeping, scheduling, inventory, preventative maintenance, payroll, and digital guidebooks, helping property owners automate tasks and increase revenue.
+
+**Areas:** Company · Hospitality · Property Management · Guest Experience · Automation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://operto.com/)
+- [Pricing](https://operto.com/demo-operto/)
+- [Sign up](https://auth.operto.com)
+- [Support](https://operto.com/contact/)
+- [Blog](https://operto.com/blog/)
+- [Terms of service](https://operto.com/terms/)
+- [Privacy policy](https://operto.com/privacy-policy/)
+- [GitHub](https://github.com/operto)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/operto/](https://apis.io/providers/operto/).
